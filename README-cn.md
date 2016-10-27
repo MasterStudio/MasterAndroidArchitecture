@@ -2,14 +2,14 @@
 
 Android架构相关的优秀资源合集
 
-## Guide
+## 架构指南
 
 - [android-architecture  ——by Google](https://github.com/googlesamples/android-architecture) 
 ![star](http://githubbadges.com/star.svg?user=googlesamples&repo=android-architecture)
 ![fork](http://githubbadges.com/fork.svg?user=googlesamples&repo=android-architecture&style=flat&color=fff&background=007ec6)  
 Google官方提供的一个各种Android优秀架构的代码实现集合（都是实现一个TODO备忘录App），并提供[架构之间的对比，与适用的场景](https://github.com/googlesamples/android-architecture/wiki/Samples-at-a-glance)
 
-## MVP
+## MVP架构
 
 ### MVP 结合 RxJava
 
@@ -18,7 +18,7 @@ Google官方提供的一个各种Android优秀架构的代码实现集合（都�
 ![fork](http://githubbadges.com/fork.svg?user=youxin11544&repo=MVP-RxJava-Hybride&style=flat&color=fff&background=007ec6)  
 这是一个Android MVP模型良好的架构设计,同时也做了Android和HTML 5交互架构，用到了RxJava+Retrofit+MVP+泛型缩减mvp+模板模式+命令模式+观察者模式+管理者模式 +简单工厂模式
 
-## Clean
+## Clean架构
 
 - [Android-CleanArchitecture](https://github.com/android10/Android-CleanArchitecture) 
 ![star](http://githubbadges.com/star.svg?user=android10&repo=Android-CleanArchitecture)
