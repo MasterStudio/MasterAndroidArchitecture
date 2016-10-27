@@ -1,4 +1,4 @@
-# awesome-android-architecture (https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+# awesome-android-architecture [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 Android架构相关的优秀资源合集
 
@@ -18,6 +18,17 @@ Google官方提供的一个各种Android优秀架构的代码实现集合（都�
 ![fork](http://githubbadges.com/fork.svg?user=youxin11544&repo=MVP-RxJava-Hybride&style=flat&color=fff&background=007ec6)  
 这是一个Android MVP模型良好的架构设计,同时也做了Android和HTML 5交互架构，用到了RxJava+Retrofit+MVP+泛型缩减mvp+模板模式+命令模式+观察者模式+管理者模式 +简单工厂模式
 
+## Clean
+
+- [Android-CleanArchitecture](https://github.com/android10/Android-CleanArchitecture) 
+![star](http://githubbadges.com/star.svg?user=android10&repo=Android-CleanArchitecture)
+![fork](http://githubbadges.com/fork.svg?user=android10&repo=Android-CleanArchitecture&style=flat&color=fff&background=007ec6)  
+这是一个关于如何在Android项目中实现 “Uncle Bob Clean架构” 系列博客的示例App
+
+ + [Android 架构 —— Clean的方式?](http://fernandocejas.com/2014/09/03/architecting-android-the-clean-way/)
+ + [Android 架构 —— 演变](http://fernandocejas.com/2015/07/18/architecting-android-the-evolution/)
+ + [Dagger2 在 Android 中的尝试](http://fernandocejas.com/2015/04/11/tasting-dagger-2-on-android/)
+ + [Demo 示例视频](http://youtu.be/XSjV4sG3ni0)
 
 ## 参考
 
