@@ -3,10 +3,10 @@ Android架构相关的优秀资源合集
 
 ## Guide
 
-- [android-architecture  ——by Google官方](https://github.com/googlesamples/android-architecture) 
+- [android-architecture  ——by Google](https://github.com/googlesamples/android-architecture) 
 ![star](http://githubbadges.com/star.svg?user=googlesamples&repo=android-architecture)
 ![fork](http://githubbadges.com/fork.svg?user=googlesamples&repo=android-architecture&style=flat&color=fff&background=007ec6)  
-一个关于Android各种优秀架构的案例集合，并提供不同场合下适用那种架构的建议
+Google官方提供的一个各种Android优秀架构的代码实现集合（都是实现一个TODO备忘录App），并提供[架构之间的对比，与适用的场景](https://github.com/googlesamples/android-architecture/wiki/Samples-at-a-glance)
 
 ## MVP
 
