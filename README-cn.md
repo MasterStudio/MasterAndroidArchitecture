@@ -9,7 +9,19 @@ Android架构相关的优秀资源合集
 ![fork](http://githubbadges.com/fork.svg?user=googlesamples&repo=android-architecture&style=flat&color=fff&background=007ec6)  
 Google官方提供的一个各种Android优秀架构的代码实现集合（都是实现一个TODO备忘录App），并提供[架构之间的对比，与适用的场景](https://github.com/googlesamples/android-architecture/wiki/Samples-at-a-glance)
 
+- [android-best-practices](https://github.com/futurice/android-best-practices) 
+![star](http://githubbadges.com/star.svg?user=futurice&repo=android-best-practices)
+![fork](http://githubbadges.com/fork.svg?user=futurice&repo=android-best-practices&style=flat&color=fff&background=007ec6)  
+Android开发过程中的注意事项，包括架构设计中的各种坑
+
 ## MVP架构
+
+### MVP 框架
+
+- [EasyMVP](https://github.com/6thsolution/EasyMVP) 
+![star](http://githubbadges.com/star.svg?user=6thsolution&repo=EasyMVP)
+![fork](http://githubbadges.com/fork.svg?user=6thsolution&repo=EasyMVP&style=flat&color=fff&background=007ec6)  
+一个帮助搭建MVP的全功能框架，并实现Clean架构的原则
 
 ### MVP 结合 RxJava
 
