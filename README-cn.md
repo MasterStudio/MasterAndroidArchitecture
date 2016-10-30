@@ -23,6 +23,11 @@ Android开发过程中的注意事项，包括架构设计中的各种坑
 ![fork](http://githubbadges.com/fork.svg?user=6thsolution&repo=EasyMVP&style=flat&color=fff&background=007ec6)  
 一个帮助搭建MVP的全功能框架，并实现Clean架构的原则。[项目主页](http://6thsolution.github.io/EasyMVP/)
 
+- [mosby](https://github.com/sockeqwe/mosby) 
+![star](http://githubbadges.com/star.svg?user=sockeqwe&repo=mosby)
+![fork](http://githubbadges.com/fork.svg?user=sockeqwe&repo=mosby&style=flat&color=fff&background=007ec6)  
+一个Model-View-Presenter框架。[项目主页](http://hannesdorfmann.com/mosby/)
+
 ### MVP 结合 RxJava
 
 - [MVP-RxJava-Hybride](https://github.com/youxin11544/MVP-RxJava-Hybride) 
