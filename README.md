@@ -22,7 +22,7 @@ Do's and Don'ts for Android development, by Futurice developers
 - [EasyMVP](https://github.com/6thsolution/EasyMVP) 
 ![star](http://githubbadges.com/star.svg?user=6thsolution&repo=EasyMVP)
 ![fork](http://githubbadges.com/fork.svg?user=6thsolution&repo=EasyMVP&style=flat&color=fff&background=007ec6)  
-A full-featured framework that allows building android applications following the principles of Clean Architecture.
+A full-featured framework that allows building android applications following the principles of Clean Architecture. [See Project Page](http://6thsolution.github.io/EasyMVP/)
 
 ### MVP with RxJava
 
