@@ -50,3 +50,9 @@ This is a sample app that is part of a series of blog posts I have written about
 ![fork](http://githubbadges.com/fork.svg?user=Juude&repo=Awesome-Android-Architecture&style=flat&color=fff&background=007ec6)  
 [Chinese] Colllection of Android Architecture
 
+- [AndroidArchitectureCollection](https://github.com/CameloeAnthony/AndroidArchitectureCollection)
+![star](http://githubbadges.com/star.svg?user=CameloeAnthony&repo=AndroidArchitectureCollection)
+![fork](http://githubbadges.com/fork.svg?user=CameloeAnthony&repo=AndroidArchitectureCollection&style=flat&color=fff&background=007ec6)  
+[Chinese] A collection of android Architecture
+
+
