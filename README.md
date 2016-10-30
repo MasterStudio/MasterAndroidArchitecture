@@ -10,6 +10,11 @@ Translations: [中文版本](./README-cn.md)
 ![fork](http://githubbadges.com/fork.svg?user=googlesamples&repo=android-architecture&style=flat&color=fff&background=007ec6)  
 A collection of samples to discuss and showcase different architectural tools and patterns for Android apps.
 
+- [android-best-practices](https://github.com/futurice/android-best-practices) 
+![star](http://githubbadges.com/star.svg?user=futurice&repo=android-best-practices)
+![fork](http://githubbadges.com/fork.svg?user=futurice&repo=android-best-practices&style=flat&color=fff&background=007ec6)  
+Do's and Don'ts for Android development, by Futurice developers
+
 ## MVP
 
 ### MVP with RxJava
