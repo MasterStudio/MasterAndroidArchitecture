@@ -21,7 +21,7 @@ Android开发过程中的注意事项，包括架构设计中的各种坑
 - [EasyMVP](https://github.com/6thsolution/EasyMVP) 
 ![star](http://githubbadges.com/star.svg?user=6thsolution&repo=EasyMVP)
 ![fork](http://githubbadges.com/fork.svg?user=6thsolution&repo=EasyMVP&style=flat&color=fff&background=007ec6)  
-一个帮助搭建MVP的全功能框架，并实现Clean架构的原则
+一个帮助搭建MVP的全功能框架，并实现Clean架构的原则。[项目主页](http://6thsolution.github.io/EasyMVP/)
 
 ### MVP 结合 RxJava
 
