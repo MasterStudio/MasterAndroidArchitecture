@@ -49,3 +49,8 @@ Android开发过程中的注意事项，包括架构设计中的各种坑
 ![fork](http://githubbadges.com/fork.svg?user=Juude&repo=Awesome-Android-Architecture&style=flat&color=fff&background=007ec6)  
 Android架构合集
 
+- [AndroidArchitectureCollection](https://github.com/CameloeAnthony/AndroidArchitectureCollection)
+![star](http://githubbadges.com/star.svg?user=CameloeAnthony&repo=AndroidArchitectureCollection)
+![fork](http://githubbadges.com/fork.svg?user=CameloeAnthony&repo=AndroidArchitectureCollection&style=flat&color=fff&background=007ec6)  
+安卓架构文章合集
+
