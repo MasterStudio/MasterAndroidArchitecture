@@ -28,6 +28,15 @@ Android开发过程中的注意事项，包括架构设计中的各种坑
 ![fork](http://githubbadges.com/fork.svg?user=sockeqwe&repo=mosby&style=flat&color=fff&background=007ec6)  
 一个Model-View-Presenter框架。[项目主页](http://hannesdorfmann.com/mosby/)
 
+### MVP 案例
+
+### MVP 结合 Clean
+
+- [MvpCleanArchitecture](https://github.com/glomadrian/MvpCleanArchitecture) 
+![star](http://githubbadges.com/star.svg?user=glomadrian&repo=MvpCleanArchitecture)
+![fork](http://githubbadges.com/fork.svg?user=glomadrian&repo=MvpCleanArchitecture&style=flat&color=fff&background=007ec6)  
+一个运用Clean架构和MVP的DEMO.
+
 ### MVP 结合 RxJava
 
 - [MVP-RxJava-Hybride](https://github.com/youxin11544/MVP-RxJava-Hybride) 
