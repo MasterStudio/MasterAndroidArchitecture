@@ -31,6 +31,8 @@ A Model-View-Presenter library for modern Android apps. [See Project Page](http:
 
 ### MVP Sample
 
+### MVP with Clean
+
 - [MvpCleanArchitecture](https://github.com/glomadrian/MvpCleanArchitecture) 
 ![star](http://githubbadges.com/star.svg?user=glomadrian&repo=MvpCleanArchitecture)
 ![fork](http://githubbadges.com/fork.svg?user=glomadrian&repo=MvpCleanArchitecture&style=flat&color=fff&background=007ec6)  
