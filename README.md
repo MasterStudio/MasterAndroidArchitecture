@@ -24,6 +24,11 @@ Do's and Don'ts for Android development, by Futurice developers
 ![fork](http://githubbadges.com/fork.svg?user=6thsolution&repo=EasyMVP&style=flat&color=fff&background=007ec6)  
 A full-featured framework that allows building android applications following the principles of Clean Architecture. [See Project Page](http://6thsolution.github.io/EasyMVP/)
 
+- [mosby](https://github.com/sockeqwe/mosby) 
+![star](http://githubbadges.com/star.svg?user=sockeqwe&repo=mosby)
+![fork](http://githubbadges.com/fork.svg?user=sockeqwe&repo=mosby&style=flat&color=fff&background=007ec6)  
+A Model-View-Presenter library for modern Android apps. [See Project Page](http://hannesdorfmann.com/mosby/)
+
 ### MVP with RxJava
 
 - [MVP-RxJava-Hybride](https://github.com/youxin11544/MVP-RxJava-Hybride) 
