@@ -29,6 +29,14 @@ A full-featured framework that allows building android applications following th
 ![fork](http://githubbadges.com/fork.svg?user=sockeqwe&repo=mosby&style=flat&color=fff&background=007ec6)  
 A Model-View-Presenter library for modern Android apps. [See Project Page](http://hannesdorfmann.com/mosby/)
 
+### MVP Sample
+
+- [MvpCleanArchitecture](https://github.com/glomadrian/MvpCleanArchitecture) 
+![star](http://githubbadges.com/star.svg?user=glomadrian&repo=MvpCleanArchitecture)
+![fork](http://githubbadges.com/fork.svg?user=glomadrian&repo=MvpCleanArchitecture&style=flat&color=fff&background=007ec6)  
+A sample project using Clean architecture and MVP in Android.
+
+
 ### MVP with RxJava
 
 - [MVP-RxJava-Hybride](https://github.com/youxin11544/MVP-RxJava-Hybride) 
