@@ -29,6 +29,11 @@ A full-featured framework that allows building android applications following th
 ![fork](http://githubbadges.com/fork.svg?user=sockeqwe&repo=mosby&style=flat&color=fff&background=007ec6)  
 A Model-View-Presenter library for modern Android apps. [See Project Page](http://hannesdorfmann.com/mosby/)
 
+- [T-MVP](https://github.com/north2014/T-MVP) 
+![star](http://githubbadges.com/star.svg?user=north2014&repo=T-MVP)
+![fork](http://githubbadges.com/fork.svg?user=north2014&repo=T-MVP&style=flat&color=fff&background=007ec6)  
+[Chinese] Use generic to depthly decoupled MVP. Use AOP, use APT instead Dagger.
+
 - [TheMVP](https://github.com/kymjs/TheMVP) 
 ![star](http://githubbadges.com/star.svg?user=kymjs&repo=TheMVP)
 ![fork](http://githubbadges.com/fork.svg?user=kymjs&repo=TheMVP&style=flat&color=fff&background=007ec6)  
