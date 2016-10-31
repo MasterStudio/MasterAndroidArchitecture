@@ -92,15 +92,15 @@ This sample project shows how to apply MVP and Clean architecture on an Android 
 ![fork](http://githubbadges.com/fork.svg?user=Freelander&repo=Elephant&style=flat&color=fff&background=007ec6)  
 Elephant is PHPHub Community Android unofficial client, base on Material Design + MVP + RxJava + Retrofit.
 
-- [Ghost](https://github.com/GeekGhost/Ghost) 
-![star](http://githubbadges.com/star.svg?user=GeekGhost&repo=Ghost)
-![fork](http://githubbadges.com/fork.svg?user=GeekGhost&repo=Ghost&style=flat&color=fff&background=007ec6)  
-Ghost，a pure online video app，which is based on Material Design + MVP + RxJava + Retrofit + Realm + Glide.
-
 - [TLint](https://github.com/gzsll/TLint) 
 ![star](http://githubbadges.com/star.svg?user=gzsll&repo=TLint)
 ![fork](http://githubbadges.com/fork.svg?user=gzsll&repo=TLint&style=flat&color=fff&background=007ec6)  
 [Chinese] Client for Hupu Sports. Based on Dagger2 + RxJava + Retrofit，using MVP pattern.
+
+- [Ghost](https://github.com/GeekGhost/Ghost) 
+![star](http://githubbadges.com/star.svg?user=GeekGhost&repo=Ghost)
+![fork](http://githubbadges.com/fork.svg?user=GeekGhost&repo=Ghost&style=flat&color=fff&background=007ec6)  
+[Chinese] Ghost，a pure online video app，which is based on Material Design + MVP + RxJava + Retrofit + Realm + Glide.
 
 
 ## Clean
