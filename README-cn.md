@@ -89,24 +89,15 @@ MVP 和 MVVM(没有用databinding) 的优秀实践项目
 ![fork](http://githubbadges.com/fork.svg?user=Freelander&repo=Elephant&style=flat&color=fff&background=007ec6)  
 大象是 PHPHub 社区非官方 Android 客户端, App UI 风格遵循了 Google Material Design 设计风格, 项目架构使用了 MVP 模式, 数据处理使用了 RxJava + Retrofit 技术.
 
-- [Ghost](https://github.com/GeekGhost/Ghost) 
-![star](http://githubbadges.com/star.svg?user=GeekGhost&repo=Ghost)
-![fork](http://githubbadges.com/fork.svg?user=GeekGhost&repo=Ghost&style=flat&color=fff&background=007ec6)  
-微影，一款纯粹的在线视频App，基于Material Design + MVP + RxJava + Retrofit + Realm + Glide
-
 - [TLint](https://github.com/gzsll/TLint) 
 ![star](http://githubbadges.com/star.svg?user=gzsll&repo=TLint)
 ![fork](http://githubbadges.com/fork.svg?user=gzsll&repo=TLint&style=flat&color=fff&background=007ec6)  
 TLint for 虎扑体育 基于Dagger2+RxJava+Retrofit开发，采用MVP模式
 
-## Fragment 相关架构
-
-### Fragment 辅助
-
-- [Fragmentation](https://github.com/YoKeyword/Fragmentation) 
-![star](http://githubbadges.com/star.svg?user=YoKeyword&repo=Fragmentation)
-![fork](http://githubbadges.com/fork.svg?user=YoKeyword&repo=Fragmentation&style=flat&color=fff&background=007ec6)  
-为"单Activity ＋ 多Fragment","多模块Activity + 多Fragment"架构而生，帮你大大简化使用过程，轻松解决各种复杂嵌套等问题，修复了官方Fragment库中存在的一些BUG。
+- [Ghost](https://github.com/GeekGhost/Ghost) 
+![star](http://githubbadges.com/star.svg?user=GeekGhost&repo=Ghost)
+![fork](http://githubbadges.com/fork.svg?user=GeekGhost&repo=Ghost&style=flat&color=fff&background=007ec6)  
+微影，一款纯粹的在线视频App，基于Material Design + MVP + RxJava + Retrofit + Realm + Glide
 
 
 ## Clean架构
@@ -120,6 +111,16 @@ TLint for 虎扑体育 基于Dagger2+RxJava+Retrofit开发，采用MVP模式
  + [Android 架构 —— 演变](http://fernandocejas.com/2015/07/18/architecting-android-the-evolution/)
  + [Dagger2 在 Android 中的尝试](http://fernandocejas.com/2015/04/11/tasting-dagger-2-on-android/)
  + [Demo 示例视频](http://youtu.be/XSjV4sG3ni0)
+
+## Fragment 相关架构
+
+### Fragment 辅助
+
+- [Fragmentation](https://github.com/YoKeyword/Fragmentation) 
+![star](http://githubbadges.com/star.svg?user=YoKeyword&repo=Fragmentation)
+![fork](http://githubbadges.com/fork.svg?user=YoKeyword&repo=Fragmentation&style=flat&color=fff&background=007ec6)  
+为"单Activity ＋ 多Fragment","多模块Activity + 多Fragment"架构而生，帮你大大简化使用过程，轻松解决各种复杂嵌套等问题，修复了官方Fragment库中存在的一些BUG。
+
 
 ## 参考
 
