@@ -29,7 +29,19 @@ A full-featured framework that allows building android applications following th
 ![fork](http://githubbadges.com/fork.svg?user=sockeqwe&repo=mosby&style=flat&color=fff&background=007ec6)  
 A Model-View-Presenter library for modern Android apps. [See Project Page](http://hannesdorfmann.com/mosby/)
 
+- [TheMVP](https://github.com/kymjs/TheMVP) 
+![star](http://githubbadges.com/star.svg?user=kymjs&repo=TheMVP)
+![fork](http://githubbadges.com/fork.svg?user=kymjs&repo=TheMVP&style=flat&color=fff&background=007ec6)  
+[Chinese] An Android MVP Architecture Diagram Framwork. 
+
 ### MVP Sample
+
+- [EffectiveAndroidUI](https://github.com/pedrovgs/EffectiveAndroidUI) 
+![star](http://githubbadges.com/star.svg?user=pedrovgs&repo=EffectiveAndroidUI)
+![fork](http://githubbadges.com/fork.svg?user=pedrovgs&repo=EffectiveAndroidUI&style=flat&color=fff&background=007ec6)  
+Sample project created to show some of the best Android practices to work in the Android UI Layer. The UI layer of this project has been implemented using MVP or MVVM (without binding engine) to show how this patterns works. This project is used during the talk "EffectiveAndroidUI".
+
+
 
 ### MVP with Clean
 
