@@ -28,7 +28,17 @@ Android开发过程中的注意事项，包括架构设计中的各种坑
 ![fork](http://githubbadges.com/fork.svg?user=sockeqwe&repo=mosby&style=flat&color=fff&background=007ec6)  
 一个Model-View-Presenter框架。[项目主页](http://hannesdorfmann.com/mosby/)
 
+- [TheMVP](https://github.com/kymjs/TheMVP) 
+![star](http://githubbadges.com/star.svg?user=kymjs&repo=TheMVP)
+![fork](http://githubbadges.com/fork.svg?user=kymjs&repo=TheMVP&style=flat&color=fff&background=007ec6)  
+TheMVP使用Activity作为Presenter层来处理代码逻辑，通过让Activity包含一个ViewDelegate对象来间接操作View层对外提供的方法，从而做到完全解耦视图层。
+
 ### MVP 案例
+
+- [EffectiveAndroidUI](https://github.com/pedrovgs/EffectiveAndroidUI) 
+![star](http://githubbadges.com/star.svg?user=pedrovgs&repo=EffectiveAndroidUI)
+![fork](http://githubbadges.com/fork.svg?user=pedrovgs&repo=EffectiveAndroidUI&style=flat&color=fff&background=007ec6)  
+MVP 和 MVVM(没有用databinding) 的优秀实践项目.
 
 ### MVP 结合 Clean
 
