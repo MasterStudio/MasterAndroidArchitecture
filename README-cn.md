@@ -28,6 +28,11 @@ Android开发过程中的注意事项，包括架构设计中的各种坑
 ![fork](http://githubbadges.com/fork.svg?user=sockeqwe&repo=mosby&style=flat&color=fff&background=007ec6)  
 一个Model-View-Presenter框架。[项目主页](http://hannesdorfmann.com/mosby/)
 
+- [T-MVP](https://github.com/north2014/T-MVP) 
+![star](http://githubbadges.com/star.svg?user=north2014&repo=T-MVP)
+![fork](http://githubbadges.com/fork.svg?user=north2014&repo=T-MVP&style=flat&color=fff&background=007ec6)  
+泛型深度解耦下的MVP大瘦身，为你的项目减少一半代码。（新增apt初始化工厂，替换掉了dagger2。新增aop切片，处理缓存和日志）
+
 - [TheMVP](https://github.com/kymjs/TheMVP) 
 ![star](http://githubbadges.com/star.svg?user=kymjs&repo=TheMVP)
 ![fork](http://githubbadges.com/fork.svg?user=kymjs&repo=TheMVP&style=flat&color=fff&background=007ec6)  
