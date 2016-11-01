@@ -14,6 +14,18 @@ Google官方提供的一个各种Android优秀架构的代码实现集合（都�
 ![fork](http://githubbadges.com/fork.svg?user=futurice&repo=android-best-practices&style=flat&color=fff&background=007ec6)  
 Android开发过程中的注意事项，包括架构设计中的各种坑
 
+## Clean架构
+
+- [Android-CleanArchitecture](https://github.com/android10/Android-CleanArchitecture) 
+![star](http://githubbadges.com/star.svg?user=android10&repo=Android-CleanArchitecture)
+![fork](http://githubbadges.com/fork.svg?user=android10&repo=Android-CleanArchitecture&style=flat&color=fff&background=007ec6)  
+这是一个关于如何在Android项目中实现 “Uncle Bob Clean架构” 系列博客的示例App
+
+ + [Android 架构 —— Clean的方式?](http://fernandocejas.com/2014/09/03/architecting-android-the-clean-way/)
+ + [Android 架构 —— 演变](http://fernandocejas.com/2015/07/18/architecting-android-the-evolution/)
+ + [Dagger2 在 Android 中的尝试](http://fernandocejas.com/2015/04/11/tasting-dagger-2-on-android/)
+ + [Demo 示例视频](http://youtu.be/XSjV4sG3ni0)
+ 
 ## MVP架构
 
 ### MVP 框架
@@ -100,17 +112,10 @@ TLint for 虎扑体育 基于Dagger2+RxJava+Retrofit开发，采用MVP模式
 微影，一款纯粹的在线视频App，基于Material Design + MVP + RxJava + Retrofit + Realm + Glide
 
 
-## Clean架构
+## MVVM
 
-- [Android-CleanArchitecture](https://github.com/android10/Android-CleanArchitecture) 
-![star](http://githubbadges.com/star.svg?user=android10&repo=Android-CleanArchitecture)
-![fork](http://githubbadges.com/fork.svg?user=android10&repo=Android-CleanArchitecture&style=flat&color=fff&background=007ec6)  
-这是一个关于如何在Android项目中实现 “Uncle Bob Clean架构” 系列博客的示例App
+### MVP 结合 RxJava
 
- + [Android 架构 —— Clean的方式?](http://fernandocejas.com/2014/09/03/architecting-android-the-clean-way/)
- + [Android 架构 —— 演变](http://fernandocejas.com/2015/07/18/architecting-android-the-evolution/)
- + [Dagger2 在 Android 中的尝试](http://fernandocejas.com/2015/04/11/tasting-dagger-2-on-android/)
- + [Demo 示例视频](http://youtu.be/XSjV4sG3ni0)
 
 ## Fragment 相关架构
 
