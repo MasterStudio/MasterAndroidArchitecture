@@ -15,6 +15,19 @@ A collection of samples to discuss and showcase different architectural tools an
 ![fork](http://githubbadges.com/fork.svg?user=futurice&repo=android-best-practices&style=flat&color=fff&background=007ec6)  
 Do's and Don'ts for Android development, by Futurice developers
 
+
+## Clean
+
+- [Android-CleanArchitecture](https://github.com/android10/Android-CleanArchitecture) 
+![star](http://githubbadges.com/star.svg?user=android10&repo=Android-CleanArchitecture)
+![fork](http://githubbadges.com/fork.svg?user=android10&repo=Android-CleanArchitecture&style=flat&color=fff&background=007ec6)  
+This is a sample app that is part of a series of blog posts I have written about how to architect an android application using Uncle Bob's clean architecture approach. 
+
+   + [Architecting Android…The clean way?](http://fernandocejas.com/2014/09/03/architecting-android-the-clean-way/)
+   + [Architecting Android…The evolution](http://fernandocejas.com/2015/07/18/architecting-android-the-evolution/)
+   + [Tasting Dagger 2 on Android](http://fernandocejas.com/2015/04/11/tasting-dagger-2-on-android/)
+   + [Demo video of this sample](http://youtu.be/XSjV4sG3ni0)
+   
 ## MVP
 
 ### MVP framework
@@ -102,18 +115,10 @@ Elephant is PHPHub Community Android unofficial client, base on Material Design 
 ![fork](http://githubbadges.com/fork.svg?user=GeekGhost&repo=Ghost&style=flat&color=fff&background=007ec6)  
 [Chinese] Ghost，a pure online video app，which is based on Material Design + MVP + RxJava + Retrofit + Realm + Glide.
 
+## MVVM
 
-## Clean
+### MVP with RxJava
 
-- [Android-CleanArchitecture](https://github.com/android10/Android-CleanArchitecture) 
-![star](http://githubbadges.com/star.svg?user=android10&repo=Android-CleanArchitecture)
-![fork](http://githubbadges.com/fork.svg?user=android10&repo=Android-CleanArchitecture&style=flat&color=fff&background=007ec6)  
-This is a sample app that is part of a series of blog posts I have written about how to architect an android application using Uncle Bob's clean architecture approach. 
-
-   + [Architecting Android…The clean way?](http://fernandocejas.com/2014/09/03/architecting-android-the-clean-way/)
-   + [Architecting Android…The evolution](http://fernandocejas.com/2015/07/18/architecting-android-the-evolution/)
-   + [Tasting Dagger 2 on Android](http://fernandocejas.com/2015/04/11/tasting-dagger-2-on-android/)
-   + [Demo video of this sample](http://youtu.be/XSjV4sG3ni0)
 
 ## Fragment 
 
