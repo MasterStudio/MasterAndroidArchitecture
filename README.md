@@ -3,7 +3,7 @@ A curated list of awesome android architecture
 
 Translations: [中文版本](./README-cn.md)
 
-## Guide
+## Guidee
 
 - [android-architecture   by Google](https://github.com/googlesamples/android-architecture) 
 ![star](http://githubbadges.com/star.svg?user=googlesamples&repo=android-architecture)
